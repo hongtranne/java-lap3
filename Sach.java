@@ -1,6 +1,6 @@
 
-package Java_OOP;
-import java.util.Scanner;
+package baitap3;
+
 public class SACH {
     private String ma,ten,tg,loai,nxb;
     private int trang,tap,gia;
