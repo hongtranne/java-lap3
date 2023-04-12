@@ -1,5 +1,5 @@
 
-package Java_OOP;
+package baitap3;
 import java.util.Scanner;
 public class SACH {
     private String ma,ten,tg,loai,nxb;
